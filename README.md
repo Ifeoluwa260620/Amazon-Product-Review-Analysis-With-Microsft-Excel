@@ -1,9 +1,3 @@
-# DSA-Documentation
-
-Sharing my learning journey and progress while taking my Data Analysis course with The Incubator Hub.
-
-Exploring new ways of getting insights from data, making informed decisions and building my skills using analytical tools from MS Excel to SQL to Power BI.
-
 ## Case Study 1: Amazon Product Review Analysis
 ## Excel-Based Analysis
 
@@ -25,5 +19,7 @@ The dataset provided contains information scraped from Amazon product pages, whi
 - Using pivot outputs to present results of analysis
 - Building an Excel dashboard
 - Present data-driven insights and recommendations from visualizations
+
+  
   
 
