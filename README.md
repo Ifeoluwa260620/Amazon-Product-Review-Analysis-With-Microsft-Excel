@@ -20,9 +20,7 @@ The dataset provided contains information scraped from Amazon product pages, whi
 - Building an Excel dashboard
 - Present data-driven insights and recommendations from visualizations
 
- ![image](https://github.com/user-attachments/assets/399b88dc-623a-41c3-bbf2-242e21334ed7)
-
-
+ 
   
 
   
