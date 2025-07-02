@@ -9,3 +9,5 @@ Exploring new ways of getting insights from data, making informed decisions and 
 
 ### Project Overview
 This data analysis project task focuses on product categories, pricing, ratings, and discount patterns aimed at analyzing product and customer review data to generate insights that can guide product improvement, marketing strategies and customer engagement.
+
+MS Excel for data cleaning[Download Here](https://www.microsoft.com)
