@@ -14,7 +14,7 @@ The dataset provided contains information scraped from Amazon product pages, whi
 
 ### Analysis Tasks
 - Assessment of data quality
-- Data Cleaning to ensure completeness in preparation for analysis [View Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/ad9354e6f4816e754456b54bb7c95d98695ba175)
+- Data Cleaning to ensure completeness in preparation for analysis [View Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/ad9354e6f4816e754456b54bb7c95d98695ba175) 
 - Analyzing product and customer review data based on pricing, product ratings, discount patterns across different product categories
 - Using pivot outputs to present results of analysis [View Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/ad9354e6f4816e754456b54bb7c95d98695ba175#diff-fc06a906b2189239df8869da59bf81e544c3699c8e5337b8e3e995bdff35ce61)
 - Building an Excel dashboard
@@ -33,8 +33,10 @@ Data driven insights and interpretations generated from visualizations based on 
 - Based on the discount range bucket, 660 products have a discount of 50% or more while 688 products have a discount of less tha 50%, with the number of products totaling to 1348 products.
 - Based on rating count, 307 products in total have fewer than 1000 reviews, while 1041 products have more than 1000 reviews.
 - Notably, Electronics having the highest number of products also have products with the highest sum of discounts (₹ 3,050,676.00) amongst other product categories, this most likely reveals increased purchasing request which makes the product more accessible to a wider range of customers.
-- Toys & Games has the least sum of potential revenue by category while Electronics has the highest sum of potential revenue with ₹ 91,323,918,321 and  ₹ 2,380,050 respectively. With Electronics being the highest, it reveals the overall efficacy of the product's sales strategy which shows that the total potential revenue of the products can be a factor used to strategize and make important decisoins to guide products improvement, price adjustment and expansion to new markets.
-- In terms of the weighted rating average which also indicates the customers overall satisfaction but with some product ratings carrying more influence than others, the top 5 are Electronics, Home&Kitchen, Computers&Accessories, Office Products, and Home Improvement products.
+- Toys & Games has the least sum of potential revenue by category while Electronics has the highest sum of potential revenue with ₹ 91,323,918,321 and  ₹ 2,380,050 respectively. With Electronics generating the highest total potential revenue, it reveals the overall efficacy of the product's sales strategy which shows that the total potential revenue of the products can be a factor used to strategize and make important decisoins to guide products improvement, price adjustment and expansion to new markets.
+- Futhermore, by the analysis of rating relating to the level of discount, it shows that higher level of discounts tend to be associated with a lower average rating of 3.99 while low level of discounts is associated with a higher average rating of 4.17. There is a risk that discounts can negatively influence the customer's perception of the product efficacy. Conversely, discounts might also attract higher reviews if it has a wider range of quality.
+- The highest number of unique products are sold at a discounted price of more than ₹500 with 848 products, 341 products are in the price range bucket of ₹200 - ₹500, and the least number of products are lesser than ₹200 with 158 products. 
+- Lastly, in terms of the weighted rating average which also indicates the customers overall satisfaction but with some product ratings carrying more influence than others, the top 5 are Electronics, Home&Kitchen, Computers&Accessories, Office Products, and Home Improvement products.
 
 
   
