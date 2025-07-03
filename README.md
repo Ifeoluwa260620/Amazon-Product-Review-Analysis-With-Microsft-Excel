@@ -16,12 +16,13 @@ The dataset provided contains information scraped from Amazon product pages, whi
 - Assessment of data quality
 - Data Cleaning to ensure completeness in preparation for analysis [View Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/ad9354e6f4816e754456b54bb7c95d98695ba175)
 - Analyzing product and customer review data based on pricing, product ratings, discount patterns across different product categories
-- Using pivot outputs to present results of analysis
+- Using pivot outputs to present results of analysis [View Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/ad9354e6f4816e754456b54bb7c95d98695ba175#diff-fc06a906b2189239df8869da59bf81e544c3699c8e5337b8e3e995bdff35ce61)
 - Building an Excel dashboard
 - Present data-driven insights and recommendations from visualizations
 
 Futhermore, an interactive dashboard was created for the client, and several patterns in the data were shown, including the level of discount, average ratings, total potential revenue by category, number of unique products per price range bucket, top 5 weighted rating average, average actual price and average discounted price by category.
 [Download Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/fdffed92e1bf40a21546c76bf2489184c9678177) 
+
   
 
   
