@@ -23,6 +23,7 @@ The dataset provided contains information scraped from Amazon product pages, whi
 Futhermore, an interactive dashboard was created for the client, and several patterns in the data were shown, including the level of discount, average ratings, total potential revenue by category, number of unique products per price range bucket, top 5 weighted rating average, average actual price and average discounted price by category.
 [Download Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/fdffed92e1bf40a21546c76bf2489184c9678177) 
 
+![image](https://github.com/user-attachments/assets/1311b60f-4f46-420c-8abf-7f9413f31f25)
   
 
   
