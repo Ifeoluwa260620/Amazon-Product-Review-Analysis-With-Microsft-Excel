@@ -30,7 +30,7 @@ Data driven insights and interpretations generated from visualizations based on 
 - By product category, Electronics had the highest number of products in its category with the number of products suming up to 490 products with Cars & Motorbikes, Toys & Games, Health & Personal Care being the least with equal number of products.
 - Also, Electronics had the highest number of reviews per category with it's rating count suming up to 14,208,406 with Car & Motorbike having the least number of reviews with a total rating count of 1,118.
 - Musical Instruments had the highest average ratings per category with an average rating count of 44,441 reflecting the customer's overall satisfaction with the product. Car & Motorbike still has the least average ratings as well as it's total number of reviews.
-- 
+- Based on the discount range bucket, 660 products have a discount of 50% or more while 688 products have a discount of less tha 50%, with the number of products totaling to 1348 products.
 
   
 
