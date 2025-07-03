@@ -14,13 +14,14 @@ The dataset provided contains information scraped from Amazon product pages, whi
 
 ### Analysis Tasks
 - Assessment of data quality
-- Data Cleaning to ensure completeness in preparation for analysis
+- Data Cleaning to ensure completeness in preparation for analysis. 
 - Analyzing product and customer review data based on pricing, product ratings, discount patterns across different product categories
 - Using pivot outputs to present results of analysis
 - Building an Excel dashboard
 - Present data-driven insights and recommendations from visualizations
 
- 
+Futhermore, an interactive dashboard was created for the client, and several patterns in the data were shown, including the level of discount, average ratings, total potential revenue by category, number of unique products per price range bucket, top 5 weighted rating average, average actual price and average discounted price by category.
+[Download Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/fdffed92e1bf40a21546c76bf2489184c9678177) 
   
 
   
