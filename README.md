@@ -31,8 +31,11 @@ Data driven insights and interpretations generated from visualizations based on 
 - Also, Electronics had the highest number of reviews per category with it's rating count suming up to 14,208,406 with Car & Motorbike having the least number of reviews with a total rating count of 1,118.
 - Musical Instruments had the highest average ratings per category with an average rating count of 44,441 reflecting the customer's overall satisfaction with the product. Car & Motorbike still has the least average ratings as well as it's total number of reviews.
 - Based on the discount range bucket, 660 products have a discount of 50% or more while 688 products have a discount of less tha 50%, with the number of products totaling to 1348 products.
+- Based on rating count, 307 products in total have fewer than 1000 reviews, while 1041 products have more than 1000 reviews.
+- Notably, Electronics having the highest number of products also have products with the highest sum of discounts (₹ 3,050,676.00) amongst other product categories, this most likely reveals increased purchasing request which makes the product more accessible to a wider range of customers.
+- Toys & Games has the least sum of potential revenue by category while Electronics has the highest sum of potential revenue with ₹ 91,323,918,321 and  ₹ 2,380,050 respectively. With Electronics being the highest, it reveals the overall efficacy of the product's sales strategy which shows that the total potential revenue of the products can be a factor used to strategize and make important decisoins to guide products improvement, price adjustment and expansion to new markets.
+- In terms of the weighted rating average which also indicates the customers overall satisfaction but with some product ratings carrying more influence than others, the top 5 are Electronics, Home&Kitchen, Computers&Accessories, Office Products, and Home Improvement products.
 
-  
 
   
   
