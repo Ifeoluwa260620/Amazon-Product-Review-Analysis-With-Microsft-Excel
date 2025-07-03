@@ -38,6 +38,7 @@ Data driven insights and interpretations generated from visualizations based on 
 - The highest number of unique products are sold at a discounted price of more than ₹500 with 848 products, 341 products are in the price range bucket of ₹200 - ₹500, and the least number of products are lesser than ₹200 with 158 products. 
 - Lastly, in terms of the weighted rating average which also indicates the customers overall satisfaction but with some product ratings carrying more influence than others, the top 5 are Electronics, Home&Kitchen, Computers&Accessories, Office Products, and Home Improvement products.
 
+In conclusion, this product review analysis would help in improving sales of product, effective marketing strategies and building quality customer engagement.
 
   
   
