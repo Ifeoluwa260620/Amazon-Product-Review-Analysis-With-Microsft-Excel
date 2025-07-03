@@ -24,6 +24,14 @@ Futhermore, an interactive dashboard was created for the client, and several pat
 [Download Here](https://github.com/Ifeoluwa260620/Amazon-Product-Review-Analysis-With-Microsft-Excel/commit/fdffed92e1bf40a21546c76bf2489184c9678177) 
 
 ![image](https://github.com/user-attachments/assets/1311b60f-4f46-420c-8abf-7f9413f31f25)
+
+Data driven insights and interpretations generated from visualizations based on product categories, review patterns, discount percentages on products, and the distribution of products ratings in Amazon;
+
+- By product category, Electronics had the highest number of products in its category with the number of products suming up to 490 products with Cars & Motorbikes, Toys & Games, Health & Personal Care being the least with equal number of products.
+- Also, Electronics had the highest number of reviews per category with it's rating count suming up to 14,208,406 with Car & Motorbike having the least number of reviews with a total rating count of 1,118.
+- Musical Instruments had the highest average ratings per category with an average rating count of 44,441 reflecting the customer's overall satisfaction with the product. Car & Motorbike still has the least average ratings as well as it's total number of reviews.
+- 
+
   
 
   
